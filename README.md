@@ -19,3 +19,8 @@ Il est possible d'utiliser les lignes de commande **git** ou **github**, mais au
 Pour télécharger git s'il n'est pas présent sur l'ordinateur, voici un lien pour le [site officiel](https://git-scm.com/downloads).
 Des vidéos tuto ainsi que des manuels de référence sont aussi présents.
 Je me suis basé sur ce [tutoriel](https://code.visualstudio.com/docs/editor/versioncontrol) pour les extensions VSCode.
+
+Des aides mémoires ont été créés pour faciliter la compréhension de git
+
+- [aide 1](https://training.github.com/downloads/fr/github-git-cheat-sheet/)
+- [aide 2](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
